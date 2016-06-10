@@ -1,0 +1,58 @@
+{esto es un comentario}
+program yy;
+var
+g,y,c,a,e:integer;
+x,q,f,b:boolean;
+vector array[1..20] of integer;
+vector array[1..20] of boolean;
+vector array[1..20] of integer;
+x,q,f,b:boolean;
+procedure hola (maria,j:boolean)
+begin
+ read ho;
+ for i:=0 to 5 do
+   begin
+	write hol;
+   end;
+end;
+function integer hola (maria,j:boolean)
+begin
+ read ho;
+ for i:=0 to 5 do
+   begin
+	write hol;
+   end;
+return t;
+end;
+function integer hola ()
+begin
+ read ho;
+ for i:=0 to 5 do
+   begin
+	write hol;
+   end;
+return t;
+end;
+function boolean hola (maria,j:boolean)
+begin
+ read ho;
+ for i:=0 to 5 do
+   begin
+	write hol;
+   end;
+return t;
+end;
+function integer hola ()
+begin
+ read ho;
+ for i:=0 to 5 do
+   begin
+	write hol;
+   end;
+return t;
+end;
+begin
+write 5;
+gg := hola(false,true);
+vector[i*2+1] := true;
+end.
